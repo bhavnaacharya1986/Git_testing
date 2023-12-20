@@ -4,5 +4,6 @@ public class Class_1 {
 
         System.out.println("Hello and welcome!");
         System.out.println("I am a Java program.");
+        System.out.println("I did my 1st coding.");
     }
 }
