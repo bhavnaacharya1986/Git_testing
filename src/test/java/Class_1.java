@@ -1,8 +1,2 @@
-public class Class_1 {
-
-    public static void main(String[] args) {
-
-        System.out.println("Hello and welcome!");
-        System.out.println("I am a Java program.");
-    }
+package PACKAGE_NAME;public class Class_1 {
 }
